@@ -1,4 +1,4 @@
-Certainly! Here's a template for the `README.md` file for your Predictive Maintenance for Industrial Equipment project:
+Here's a template for the `README.md` file for your Predictive Maintenance for Industrial Equipment project:
 
 ```markdown
 # Predictive Maintenance for Industrial Equipment
